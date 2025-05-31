@@ -4,6 +4,8 @@
 
 Simple P2P Messenger using pure Win32. Chatting directly by using LAN or Wi-Fi. Works on Windows 2000 and higher.
 
+**Note that app is closed source.**
+
 ---
 
 ### Features
