@@ -1,5 +1,7 @@
 # Simple P2P Messenger
 
+**Note:** it is a dead project, so I don't care, do anything lol.
+
 ### What is this?
 
 Simple P2P Messenger using pure Win32. Chatting directly by using LAN or Wi-Fi. Works on Windows 2000 and higher.
