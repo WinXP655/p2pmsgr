@@ -1,0 +1,3 @@
+IDI_APPICON ICON "icon.ico"
+IDI_SEND     ICON "send.ico"
+IDI_PC     ICON "pc.ico"

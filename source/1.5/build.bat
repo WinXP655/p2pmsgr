@@ -1,0 +1,1 @@
+gcc p2pmsgr.c chat.o -o p2pmsgr.exe -m32 -lwsock32 -lgdi32 -lwinmm -mwindows

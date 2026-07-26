@@ -1,0 +1,1 @@
+gcc msgr.c srvconn.o -o msgr.exe -m32 -lwsock32

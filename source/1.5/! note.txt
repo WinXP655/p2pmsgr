@@ -1,0 +1,2 @@
+1. You need to add resources manually using Resource Hacker.
+2. To build installer, NSIS is required.

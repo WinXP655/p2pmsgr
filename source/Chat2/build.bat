@@ -1,0 +1,1 @@
+gcc chat2.c chat.o -o chat2.exe -m32 -lwsock32 -mwindows -lgdi32 -lwinmm

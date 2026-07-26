@@ -1,0 +1,2 @@
+1. When adding manually, use app.ico - it had new icon.
+2. Basically was rebranded P2P Messenger.

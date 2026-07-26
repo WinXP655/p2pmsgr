@@ -1,0 +1,1 @@
+gcc msgr.c chat.o -o msgr.exe -m32 -lwsock32
